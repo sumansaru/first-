@@ -1,24 +1,29 @@
-import App from "./src/App"
+// import App from "./src/App"
 
-// instalation
-npm create vite@laste react1
+// // instalation
+// npm create vite@laste react1
 
-url 
-local host :5173
+// url 
+// local host :5173
 
-how ho run react App
-npm run dev
+// how ho run react App
+// npm run dev
 
-console 
-console will appear at developer pannel
-
-
-any thing which is write inside return are printed on browser
+// console 
+// console will appear at developer pannel
 
 
-import 
-    import { Component } from "react"
-export
+// any thing which is write inside return are printed on browser
 
 
-Component
+// import 
+//     import { Component } from "react"
+// export
+
+
+// Component
+
+
+//props 
+value passed inside component are called this.props.
+if props is other than string always wap it by curly
